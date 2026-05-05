@@ -7,6 +7,7 @@ def load_data():
 
 def show_summary(df):
     print("Dataset shape:", df.shape)
+    print("Columns:", list(df.columns))
     print(df.head())
 
 def main():
