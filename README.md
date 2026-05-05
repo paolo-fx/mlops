@@ -18,3 +18,9 @@ This project analyzes bike trips data.
 
 \- Understand user behavior
 
+## Installation
+
+\- Python 3
+
+\- pandas
+
