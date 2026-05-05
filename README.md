@@ -24,3 +24,9 @@ This project analyzes bike trips data.
 
 \- pandas
 
+## Usage
+
+Run the script with:
+
+python bikeshare.py
+
